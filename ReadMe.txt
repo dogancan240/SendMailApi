@@ -1,4 +1,4 @@
-This api sent mail with attachments, you can test it in postman. I added posm example bellwo
+This api sent mail with attachments, you can test it in postman. I added postman parameters examples for posting bellwo
 
 
 {
